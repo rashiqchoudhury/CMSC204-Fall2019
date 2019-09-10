@@ -1,0 +1,5 @@
+ToDo List:
+-Make Professor Read ToDo List
+-Professor thinks this todo List is Stupid
+-Proceed to make actual ToDo List
+-Pie
