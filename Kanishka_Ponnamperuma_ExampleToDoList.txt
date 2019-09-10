@@ -1,0 +1,10 @@
+1)Wake-up
+2)Brush Tea
+3)Boot-up Computer
+4)Drink Tea
+5)Browse Reddit
+6)Watch Youtube
+7)Play a game or two
+8)Go to bed
+9)Scroll through Reddit on phone
+10)Sleep
