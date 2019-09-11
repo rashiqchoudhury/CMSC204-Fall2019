@@ -1,4 +1,4 @@
 DONE - complete GitHub lab
 DONE - feed siblings
-- water plants
+DONE - water plants
 - buy bus tickets
